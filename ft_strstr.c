@@ -6,14 +6,9 @@
 /*   By: vigabrie <vigabrie@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/04/07 18:12:14 by vigabrie          #+#    #+#             */
-/*   Updated: 2021/04/13 19:28:41 by vigabrie         ###   ########.fr       */
+/*   Updated: 2021/04/13 23:58:07 by vigabrie         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
-#include <stdlib.h>
-#include <unistd.h>
-#include <stdio.h>
-#include <string.h>
 
 char	*ft_strstr(char *str, char *to_find)
 {
